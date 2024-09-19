@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+WebWeaver.egg-info/PKG-INFO
+WebWeaver.egg-info/SOURCES.txt
+WebWeaver.egg-info/dependency_links.txt
+WebWeaver.egg-info/requires.txt
+WebWeaver.egg-info/top_level.txt
