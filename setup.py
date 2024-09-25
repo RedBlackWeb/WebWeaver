@@ -7,7 +7,7 @@ with open("README.md", 'r') as f:
 setup(
 
     name="WebWeaver",
-    version="1.1.1",
+    version="1.2.2",
     packages=find_packages(),
     description='A package used for web crawling',
     author='Shubakar Poda & Nirmal Babu',

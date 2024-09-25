@@ -1,6 +1,9 @@
 LICENSE.txt
 README.md
 setup.py
+WebWeaver/__init__.py
+WebWeaver/util.py
+WebWeaver/webWeaver.py
 WebWeaver.egg-info/PKG-INFO
 WebWeaver.egg-info/SOURCES.txt
 WebWeaver.egg-info/dependency_links.txt
