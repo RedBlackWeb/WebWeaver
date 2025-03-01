@@ -10,7 +10,7 @@ setup(
     version="1.2.2",
     packages=find_packages(),
     description='A package used for web crawling',
-    author='Shubakar Poda & Nirmal Babu',
+    author='Shubakar Poda, Nirmal Babu & Vamsi Krishna Kollipara',
     author_email='redblack09062024@gmail.com',
     install_requires=[
         'requests==2.32.3'
